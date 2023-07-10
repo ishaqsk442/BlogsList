@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.user-info {
+  /* height: 200px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile {
+  height: 80px;
+  width: 100px;
+}
